@@ -67,7 +67,7 @@ public class BasicApplicationTests {
     }
 
     /**
-     * Test call of create method, on weblayer.
+     * Test call of create method, on weblayer., modificando2
      */
     @Test
     public void testCreate() throws Exception {
